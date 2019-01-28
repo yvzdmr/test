@@ -1,0 +1,10 @@
+{
+    "name": "com.vrm.carousel",
+    "displayName": "Carousel System",
+    "version": "0.0.1",
+    "unity": "2018.1",
+    "description": "Carousel system used by VRM Company",
+    "dependencies": {
+	
+    }
+}
